@@ -1,0 +1,229 @@
+
+Time: Wed Apr 24 22:54:53 EDT 2019		Before Invoking this Method: home
+Time: Wed Apr 24 22:54:53 EDT 2019		Before entering method: home
+Time: Wed Apr 24 22:54:53 EDT 2019		After Invoking  Method Return: redirect:/auth/login
+Time: Wed Apr 24 22:54:53 EDT 2019		Method: home returned successfully
+Time: Wed Apr 24 22:54:53 EDT 2019		Before Invoking this Method: login
+Time: Wed Apr 24 22:54:53 EDT 2019		Before entering method: login
+Time: Wed Apr 24 22:54:53 EDT 2019		After Invoking  Method Return: login
+Time: Wed Apr 24 22:54:53 EDT 2019		Method: login returned successfully
+Time: Wed Apr 24 22:55:20 EDT 2019		Before Invoking this Method: login
+Time: Wed Apr 24 22:55:20 EDT 2019		Before entering method: login
+Time: Wed Apr 24 22:55:20 EDT 2019		After Invoking  Method Return: login
+Time: Wed Apr 24 22:55:20 EDT 2019		Method: login returned successfully
+Time: Wed Apr 24 22:55:31 EDT 2019		Before Invoking this Method: showvalidationPage
+Time: Wed Apr 24 22:55:31 EDT 2019		Before entering method: showvalidationPage
+Time: Wed Apr 24 22:55:32 EDT 2019		After Invoking  Method Return: redirect:/User/dashboard
+Time: Wed Apr 24 22:55:32 EDT 2019		Method: showvalidationPage returned successfully
+Time: Wed Apr 24 22:55:32 EDT 2019		Before Invoking this Method: dashboard
+Time: Wed Apr 24 22:55:32 EDT 2019		Before entering method: dashboard
+Time: Wed Apr 24 22:55:32 EDT 2019		After Invoking  Method Return: User/UserHomePage
+Time: Wed Apr 24 22:55:32 EDT 2019		Method: dashboard returned successfully
+Time: Wed Apr 24 22:55:36 EDT 2019		Before Invoking this Method: UserBookCheckinPage
+Time: Wed Apr 24 22:55:36 EDT 2019		Before entering method: UserBookCheckinPage
+Time: Wed Apr 24 22:55:36 EDT 2019		After Invoking  Method Return: User/UserBookCheckin
+Time: Wed Apr 24 22:55:36 EDT 2019		Method: UserBookCheckinPage returned successfully
+Time: Wed Apr 24 22:55:46 EDT 2019		Before Invoking this Method: UserCheckinSearchBook
+Time: Wed Apr 24 22:55:46 EDT 2019		Before entering method: UserCheckinSearchBook
+Time: Wed Apr 24 22:55:46 EDT 2019		After Invoking  Method Return: User/UserBookCheckin
+Time: Wed Apr 24 22:55:46 EDT 2019		Method: UserCheckinSearchBook returned successfully
+Time: Wed Apr 24 22:55:52 EDT 2019		Before Invoking this Method: UserCheckinAddBookToCart
+Time: Wed Apr 24 22:55:52 EDT 2019		Before entering method: UserCheckinAddBookToCart
+Time: Wed Apr 24 22:55:52 EDT 2019		After Invoking  Method Return: User/UserBookCheckin
+Time: Wed Apr 24 22:55:52 EDT 2019		Method: UserCheckinAddBookToCart returned successfully
+Time: Wed Apr 24 22:57:26 EDT 2019		Before Invoking this Method: UserBookCartDetails
+Time: Wed Apr 24 22:57:26 EDT 2019		Before entering method: UserBookCartDetails
+Time: Wed Apr 24 22:57:27 EDT 2019		After Invoking  Method Return: User/UserBookCart
+Time: Wed Apr 24 22:57:27 EDT 2019		Method: UserBookCartDetails returned successfully
+Time: Wed Apr 24 22:57:36 EDT 2019		Before Invoking this Method: UserBookCheckOut
+Time: Wed Apr 24 22:57:36 EDT 2019		Before entering method: UserBookCheckOut
+Time: Wed Apr 24 22:57:36 EDT 2019		After Invoking  Method Return: User/UserBookCart
+Time: Wed Apr 24 22:57:36 EDT 2019		Method: UserBookCheckOut returned successfully
+Time: Wed Apr 24 22:57:54 EDT 2019		Before Invoking this Method: UserWishList
+Time: Wed Apr 24 22:57:54 EDT 2019		Before entering method: UserWishList
+Time: Wed Apr 24 22:57:54 EDT 2019		After Invoking  Method Return: User/UserBookWishList
+Time: Wed Apr 24 22:57:54 EDT 2019		Method: UserWishList returned successfully
+Time: Wed Apr 24 22:58:00 EDT 2019		Before Invoking this Method: UserRenewBooksPage
+Time: Wed Apr 24 22:58:00 EDT 2019		Before entering method: UserRenewBooksPage
+Time: Wed Apr 24 22:58:00 EDT 2019		After Invoking  Method Return: User/UserRenewBook
+Time: Wed Apr 24 22:58:00 EDT 2019		Method: UserRenewBooksPage returned successfully
+Time: Wed Apr 24 22:58:51 EDT 2019		Before Invoking this Method: RenewBookByUser
+Time: Wed Apr 24 22:58:51 EDT 2019		Before entering method: RenewBookByUser
+Time: Wed Apr 24 22:58:51 EDT 2019		After Invoking  Method Return: User/UserRenewBook
+Time: Wed Apr 24 22:58:51 EDT 2019		Method: RenewBookByUser returned successfully
+Time: Wed Apr 24 22:58:57 EDT 2019		Before Invoking this Method: RenewBookByUser
+Time: Wed Apr 24 22:58:57 EDT 2019		Before entering method: RenewBookByUser
+Time: Wed Apr 24 22:58:58 EDT 2019		After Invoking  Method Return: User/UserRenewBook
+Time: Wed Apr 24 22:58:58 EDT 2019		Method: RenewBookByUser returned successfully
+Time: Wed Apr 24 22:59:02 EDT 2019		Before Invoking this Method: RenewBookByUser
+Time: Wed Apr 24 22:59:02 EDT 2019		Before entering method: RenewBookByUser
+Time: Wed Apr 24 22:59:02 EDT 2019		After Invoking  Method Return: User/UserRenewBook
+Time: Wed Apr 24 22:59:02 EDT 2019		Method: RenewBookByUser returned successfully
+Time: Wed Apr 24 22:59:06 EDT 2019		Before Invoking this Method: UserWishList
+Time: Wed Apr 24 22:59:06 EDT 2019		Before entering method: UserWishList
+Time: Wed Apr 24 22:59:06 EDT 2019		After Invoking  Method Return: User/UserBookWishList
+Time: Wed Apr 24 22:59:06 EDT 2019		Method: UserWishList returned successfully
+Time: Wed Apr 24 22:59:09 EDT 2019		Before Invoking this Method: UserOweBooks
+Time: Wed Apr 24 22:59:09 EDT 2019		Before entering method: UserOweBooks
+Time: Wed Apr 24 22:59:09 EDT 2019		After Invoking  Method Return: User/UserOweBook
+Time: Wed Apr 24 22:59:09 EDT 2019		Method: UserOweBooks returned successfully
+Time: Wed Apr 24 23:00:52 EDT 2019		Before Invoking this Method: UserWishList
+Time: Wed Apr 24 23:00:52 EDT 2019		Before entering method: UserWishList
+Time: Wed Apr 24 23:00:52 EDT 2019		After Invoking  Method Return: User/UserBookWishList
+Time: Wed Apr 24 23:00:52 EDT 2019		Method: UserWishList returned successfully
+Time: Wed Apr 24 23:00:56 EDT 2019		Before Invoking this Method: UserBookCheckinPage
+Time: Wed Apr 24 23:00:56 EDT 2019		Before entering method: UserBookCheckinPage
+Time: Wed Apr 24 23:00:56 EDT 2019		After Invoking  Method Return: User/UserBookCheckin
+Time: Wed Apr 24 23:00:56 EDT 2019		Method: UserBookCheckinPage returned successfully
+Time: Wed Apr 24 23:01:05 EDT 2019		Before Invoking this Method: UserCheckinSearchBook
+Time: Wed Apr 24 23:01:05 EDT 2019		Before entering method: UserCheckinSearchBook
+Time: Wed Apr 24 23:01:05 EDT 2019		After Invoking  Method Return: User/UserBookCheckin
+Time: Wed Apr 24 23:01:05 EDT 2019		Method: UserCheckinSearchBook returned successfully
+Time: Wed Apr 24 23:01:08 EDT 2019		Before Invoking this Method: UserCheckinAddBookToCart
+Time: Wed Apr 24 23:01:08 EDT 2019		Before entering method: UserCheckinAddBookToCart
+Time: Wed Apr 24 23:01:08 EDT 2019		After Invoking  Method Return: User/UserBookCheckin
+Time: Wed Apr 24 23:01:08 EDT 2019		Method: UserCheckinAddBookToCart returned successfully
+Time: Wed Apr 24 23:01:09 EDT 2019		Before Invoking this Method: UserBookCartDetails
+Time: Wed Apr 24 23:01:09 EDT 2019		Before entering method: UserBookCartDetails
+Time: Wed Apr 24 23:01:09 EDT 2019		After Invoking  Method Return: User/UserBookCart
+Time: Wed Apr 24 23:01:09 EDT 2019		Method: UserBookCartDetails returned successfully
+Time: Wed Apr 24 23:01:17 EDT 2019		Before Invoking this Method: UserWishList
+Time: Wed Apr 24 23:01:17 EDT 2019		Before entering method: UserWishList
+Time: Wed Apr 24 23:01:17 EDT 2019		After Invoking  Method Return: User/UserBookWishList
+Time: Wed Apr 24 23:01:17 EDT 2019		Method: UserWishList returned successfully
+Time: Wed Apr 24 23:01:30 EDT 2019		Before Invoking this Method: SearchUserBookWishList
+Time: Wed Apr 24 23:01:30 EDT 2019		Before entering method: SearchUserBookWishList
+Time: Wed Apr 24 23:01:30 EDT 2019		After Invoking  Method Return: User/UserBookWishList
+Time: Wed Apr 24 23:01:30 EDT 2019		Method: SearchUserBookWishList returned successfully
+Time: Wed Apr 24 23:03:11 EDT 2019		Before Invoking this Method: logout
+Time: Wed Apr 24 23:03:11 EDT 2019		Before entering method: logout
+Time: Wed Apr 24 23:03:11 EDT 2019		After Invoking  Method Return: redirect:/auth/login
+Time: Wed Apr 24 23:03:11 EDT 2019		Method: logout returned successfully
+Time: Wed Apr 24 23:03:11 EDT 2019		Before Invoking this Method: login
+Time: Wed Apr 24 23:03:11 EDT 2019		Before entering method: login
+Time: Wed Apr 24 23:03:11 EDT 2019		After Invoking  Method Return: login
+Time: Wed Apr 24 23:03:11 EDT 2019		Method: login returned successfully
+Time: Wed Apr 24 23:03:16 EDT 2019		Before Invoking this Method: registration
+Time: Wed Apr 24 23:03:16 EDT 2019		Before entering method: registration
+Time: Wed Apr 24 23:03:16 EDT 2019		After Invoking  Method Return: searchregnumber
+Time: Wed Apr 24 23:03:16 EDT 2019		Method: registration returned successfully
+Time: Wed Apr 24 23:04:48 EDT 2019		Before Invoking this Method: registration
+Time: Wed Apr 24 23:04:48 EDT 2019		Before entering method: registration
+Time: Wed Apr 24 23:04:48 EDT 2019		After Invoking  Method Return: registration
+Time: Wed Apr 24 23:04:48 EDT 2019		Method: registration returned successfully
+Time: Wed Apr 24 23:05:14 EDT 2019		Before Invoking this Method: registration
+Time: Wed Apr 24 23:05:14 EDT 2019		Before entering method: registration
+Time: Wed Apr 24 23:05:14 EDT 2019		After Invoking  Method Return: redirect:/auth/login
+Time: Wed Apr 24 23:05:14 EDT 2019		Method: registration returned successfully
+Time: Wed Apr 24 23:05:14 EDT 2019		Before Invoking this Method: login
+Time: Wed Apr 24 23:05:14 EDT 2019		Before entering method: login
+Time: Wed Apr 24 23:05:14 EDT 2019		After Invoking  Method Return: login
+Time: Wed Apr 24 23:05:14 EDT 2019		Method: login returned successfully
+Time: Wed Apr 24 23:05:26 EDT 2019		Before Invoking this Method: showvalidationPage
+Time: Wed Apr 24 23:05:26 EDT 2019		Before entering method: showvalidationPage
+Time: Wed Apr 24 23:05:26 EDT 2019		After Invoking  Method Return: redirect:/auth/login
+Time: Wed Apr 24 23:05:26 EDT 2019		Method: showvalidationPage returned successfully
+Time: Wed Apr 24 23:05:26 EDT 2019		Before Invoking this Method: login
+Time: Wed Apr 24 23:05:26 EDT 2019		Before entering method: login
+Time: Wed Apr 24 23:05:26 EDT 2019		After Invoking  Method Return: login
+Time: Wed Apr 24 23:05:26 EDT 2019		Method: login returned successfully
+Time: Wed Apr 24 23:05:38 EDT 2019		Before Invoking this Method: showvalidationPage
+Time: Wed Apr 24 23:05:38 EDT 2019		Before entering method: showvalidationPage
+Time: Wed Apr 24 23:05:38 EDT 2019		After Invoking  Method Return: redirect:/auth/login
+Time: Wed Apr 24 23:05:38 EDT 2019		Method: showvalidationPage returned successfully
+Time: Wed Apr 24 23:05:38 EDT 2019		Before Invoking this Method: login
+Time: Wed Apr 24 23:05:38 EDT 2019		Before entering method: login
+Time: Wed Apr 24 23:05:38 EDT 2019		After Invoking  Method Return: login
+Time: Wed Apr 24 23:05:38 EDT 2019		Method: login returned successfully
+Time: Wed Apr 24 23:05:40 EDT 2019		Before Invoking this Method: registration
+Time: Wed Apr 24 23:05:40 EDT 2019		Before entering method: registration
+Time: Wed Apr 24 23:05:40 EDT 2019		After Invoking  Method Return: searchregnumber
+Time: Wed Apr 24 23:05:40 EDT 2019		Method: registration returned successfully
+Time: Wed Apr 24 23:05:57 EDT 2019		Before Invoking this Method: registration
+Time: Wed Apr 24 23:05:57 EDT 2019		Before entering method: registration
+Time: Wed Apr 24 23:05:57 EDT 2019		After Invoking  Method Return: searchregnumber
+Time: Wed Apr 24 23:05:57 EDT 2019		Method: registration returned successfully
+Time: Wed Apr 24 23:06:24 EDT 2019		Before Invoking this Method: registration
+Time: Wed Apr 24 23:06:24 EDT 2019		Before entering method: registration
+Time: Wed Apr 24 23:06:24 EDT 2019		After Invoking  Method Return: registration
+Time: Wed Apr 24 23:06:24 EDT 2019		Method: registration returned successfully
+Time: Wed Apr 24 23:06:37 EDT 2019		Before Invoking this Method: registration
+Time: Wed Apr 24 23:06:37 EDT 2019		Before entering method: registration
+Time: Wed Apr 24 23:06:37 EDT 2019		After Invoking  Method Return: redirect:/auth/login
+Time: Wed Apr 24 23:06:37 EDT 2019		Method: registration returned successfully
+Time: Wed Apr 24 23:06:37 EDT 2019		Before Invoking this Method: login
+Time: Wed Apr 24 23:06:37 EDT 2019		Before entering method: login
+Time: Wed Apr 24 23:06:37 EDT 2019		After Invoking  Method Return: login
+Time: Wed Apr 24 23:06:37 EDT 2019		Method: login returned successfully
+Time: Wed Apr 24 23:06:47 EDT 2019		Before Invoking this Method: showvalidationPage
+Time: Wed Apr 24 23:06:47 EDT 2019		Before entering method: showvalidationPage
+Time: Wed Apr 24 23:06:47 EDT 2019		After Invoking  Method Return: redirect:/User/dashboard
+Time: Wed Apr 24 23:06:47 EDT 2019		Method: showvalidationPage returned successfully
+Time: Wed Apr 24 23:06:47 EDT 2019		Before Invoking this Method: dashboard
+Time: Wed Apr 24 23:06:47 EDT 2019		Before entering method: dashboard
+Time: Wed Apr 24 23:06:47 EDT 2019		After Invoking  Method Return: User/UserHomePage
+Time: Wed Apr 24 23:06:47 EDT 2019		Method: dashboard returned successfully
+Time: Wed Apr 24 23:06:52 EDT 2019		Before Invoking this Method: UserWishList
+Time: Wed Apr 24 23:06:52 EDT 2019		Before entering method: UserWishList
+Time: Wed Apr 24 23:06:52 EDT 2019		After Invoking  Method Return: User/UserBookWishList
+Time: Wed Apr 24 23:06:52 EDT 2019		Method: UserWishList returned successfully
+Time: Wed Apr 24 23:06:58 EDT 2019		Before Invoking this Method: SearchUserBookWishList
+Time: Wed Apr 24 23:06:58 EDT 2019		Before entering method: SearchUserBookWishList
+Time: Wed Apr 24 23:06:59 EDT 2019		After Invoking  Method Return: User/UserBookWishList
+Time: Wed Apr 24 23:06:59 EDT 2019		Method: SearchUserBookWishList returned successfully
+Time: Wed Apr 24 23:07:10 EDT 2019		Before Invoking this Method: UserAddBookToWishList
+Time: Wed Apr 24 23:07:10 EDT 2019		Before entering method: UserAddBookToWishList
+Time: Wed Apr 24 23:07:10 EDT 2019		After Invoking  Method Return: User/UserBookWishList
+Time: Wed Apr 24 23:07:10 EDT 2019		Method: UserAddBookToWishList returned successfully
+Time: Wed Apr 24 23:07:14 EDT 2019		Before Invoking this Method: UserRenewBooksPage
+Time: Wed Apr 24 23:07:14 EDT 2019		Before entering method: UserRenewBooksPage
+Time: Wed Apr 24 23:07:14 EDT 2019		After Invoking  Method Return: User/UserRenewBook
+Time: Wed Apr 24 23:07:14 EDT 2019		Method: UserRenewBooksPage returned successfully
+Time: Wed Apr 24 23:07:16 EDT 2019		Before Invoking this Method: UserBookCheckinPage
+Time: Wed Apr 24 23:07:16 EDT 2019		Before entering method: UserBookCheckinPage
+Time: Wed Apr 24 23:07:16 EDT 2019		After Invoking  Method Return: User/UserBookCheckin
+Time: Wed Apr 24 23:07:16 EDT 2019		Method: UserBookCheckinPage returned successfully
+Time: Wed Apr 24 23:07:18 EDT 2019		Before Invoking this Method: UserWishList
+Time: Wed Apr 24 23:07:18 EDT 2019		Before entering method: UserWishList
+Time: Wed Apr 24 23:07:18 EDT 2019		After Invoking  Method Return: User/UserBookWishList
+Time: Wed Apr 24 23:07:18 EDT 2019		Method: UserWishList returned successfully
+Time: Wed Apr 24 23:07:19 EDT 2019		Before Invoking this Method: UserOweBooks
+Time: Wed Apr 24 23:07:19 EDT 2019		Before entering method: UserOweBooks
+Time: Wed Apr 24 23:07:19 EDT 2019		After Invoking  Method Return: User/UserOweBook
+Time: Wed Apr 24 23:07:19 EDT 2019		Method: UserOweBooks returned successfully
+Time: Wed Apr 24 23:07:22 EDT 2019		Before Invoking this Method: UserWishList
+Time: Wed Apr 24 23:07:22 EDT 2019		Before entering method: UserWishList
+Time: Wed Apr 24 23:07:22 EDT 2019		After Invoking  Method Return: User/UserBookWishList
+Time: Wed Apr 24 23:07:22 EDT 2019		Method: UserWishList returned successfully
+Time: Wed Apr 24 23:07:35 EDT 2019		Before Invoking this Method: UserBookCheckinPage
+Time: Wed Apr 24 23:07:35 EDT 2019		Before entering method: UserBookCheckinPage
+Time: Wed Apr 24 23:07:35 EDT 2019		After Invoking  Method Return: User/UserBookCheckin
+Time: Wed Apr 24 23:07:35 EDT 2019		Method: UserBookCheckinPage returned successfully
+Time: Wed Apr 24 23:07:50 EDT 2019		Before Invoking this Method: UserCheckinSearchBook
+Time: Wed Apr 24 23:07:50 EDT 2019		Before entering method: UserCheckinSearchBook
+Time: Wed Apr 24 23:07:50 EDT 2019		After Invoking  Method Return: User/UserBookCheckin
+Time: Wed Apr 24 23:07:50 EDT 2019		Method: UserCheckinSearchBook returned successfully
+Time: Wed Apr 24 23:07:55 EDT 2019		Before Invoking this Method: UserCheckinAddBookToCart
+Time: Wed Apr 24 23:07:55 EDT 2019		Before entering method: UserCheckinAddBookToCart
+Time: Wed Apr 24 23:07:55 EDT 2019		After Invoking  Method Return: User/UserBookCheckin
+Time: Wed Apr 24 23:07:55 EDT 2019		Method: UserCheckinAddBookToCart returned successfully
+Time: Wed Apr 24 23:07:56 EDT 2019		Before Invoking this Method: UserBookCartDetails
+Time: Wed Apr 24 23:07:57 EDT 2019		Before entering method: UserBookCartDetails
+Time: Wed Apr 24 23:07:57 EDT 2019		After Invoking  Method Return: User/UserBookCart
+Time: Wed Apr 24 23:07:57 EDT 2019		Method: UserBookCartDetails returned successfully
+Time: Wed Apr 24 23:08:01 EDT 2019		Before Invoking this Method: UserRenewBooksPage
+Time: Wed Apr 24 23:08:01 EDT 2019		Before entering method: UserRenewBooksPage
+Time: Wed Apr 24 23:08:01 EDT 2019		After Invoking  Method Return: User/UserRenewBook
+Time: Wed Apr 24 23:08:01 EDT 2019		Method: UserRenewBooksPage returned successfully
+Time: Wed Apr 24 23:08:02 EDT 2019		Before Invoking this Method: UserBookCheckinPage
+Time: Wed Apr 24 23:08:02 EDT 2019		Before entering method: UserBookCheckinPage
+Time: Wed Apr 24 23:08:02 EDT 2019		After Invoking  Method Return: User/UserBookCheckin
+Time: Wed Apr 24 23:08:02 EDT 2019		Method: UserBookCheckinPage returned successfully
+Time: Wed Apr 24 23:08:19 EDT 2019		Before Invoking this Method: UserWishList
+Time: Wed Apr 24 23:08:19 EDT 2019		Before entering method: UserWishList
+Time: Wed Apr 24 23:08:19 EDT 2019		After Invoking  Method Return: User/UserBookWishList
+Time: Wed Apr 24 23:08:19 EDT 2019		Method: UserWishList returned successfully
+Time: Wed Apr 24 23:08:20 EDT 2019		Before Invoking this Method: UserOweBooks
+Time: Wed Apr 24 23:08:20 EDT 2019		Before entering method: UserOweBooks
+Time: Wed Apr 24 23:08:20 EDT 2019		After Invoking  Method Return: User/UserOweBook
+Time: Wed Apr 24 23:08:20 EDT 2019		Method: UserOweBooks returned successfully

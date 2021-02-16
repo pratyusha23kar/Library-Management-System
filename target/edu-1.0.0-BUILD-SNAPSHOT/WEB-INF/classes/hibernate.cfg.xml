@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+		"-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+		"http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+        <property name="hibernate.connection.driver_class">com.mysql.cj.jdbc.Driver</property>
+        <property name="hibernate.connection.password">pratyusha</property>
+        <property name="hibernate.connection.url">jdbc:mysql://localhost:3306/lmsdb</property>
+        <property name="hibernate.connection.username">pratyusha</property>
+        <property name="hibernate.default_schema">dbo</property>
+        <property name="hibernate.dialect">org.hibernate.dialect.MySQL5Dialect</property>
+        <property name="hibernate.hbm2ddl.auto">update</property>
+        <property name="hibernate.show_sql">true</property>
+ 
+        <mapping class="com.neu.edu.LMS.pojo.User"/>
+        <mapping class="com.neu.edu.LMS.pojo.Role"/>
+        <mapping class="com.neu.edu.LMS.pojo.Book"/>
+        <mapping class="com.neu.edu.LMS.pojo.UserBook"/>
+        <mapping class="com.neu.edu.LMS.pojo.UserBookTempCart"/>
+        <mapping class="com.neu.edu.LMS.pojo.UserBookWishList"/>
+        <mapping class="com.neu.edu.LMS.pojo.Address"/>
+        
+    </session-factory>
+</hibernate-configuration>

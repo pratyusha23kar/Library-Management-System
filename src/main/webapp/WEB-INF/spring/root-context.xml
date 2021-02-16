@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans https://www.springframework.org/schema/beans/spring-beans.xsd">
+	
+	<!-- Root Context: defines shared resources visible to all other web components -->
+	<!-- Root Context: defines shared resources visible to all other web components -->
+	<bean id="multipartResolver"
+		class="org.springframework.web.multipart.commons.CommonsMultipartResolver">
+		<!-- one of the properties available; the maximum file size in bytes -->
+		<property name="maxUploadSize" value="100000"/>
+	</bean>
+	<bean id="UserDaoImpl" class="com.neu.edu.LMS.dao.UserDaoImpl"> </bean>
+	<bean id="userValidator" class="com.neu.edu.LMS.validator.UserValidator"></bean>
+	<bean id="user" class="com.neu.edu.LMS.pojo.User"> </bean>
+	
+	<bean id="BookDaoImpl" class="com.neu.edu.LMS.dao.BookDaoImpl"> </bean>
+	<bean id="book" class="com.neu.edu.LMS.pojo.Book"> </bean>
+	<bean id="BookDao" class="com.neu.edu.LMS.dao.BookDaoImpl"> </bean>
+
+	<bean id="authenticationDao" class="com.neu.edu.LMS.dao.AuthenticationDaoImpl"> </bean>
+	<bean id="authenticationDaoImpl" class="com.neu.edu.LMS.dao.AuthenticationDaoImpl"> </bean>
+	
+	<bean id="UserBookDaoImpl" class="com.neu.edu.LMS.dao.UserBookDaoImpl"> </bean>
+	<bean id="UserBookDao" class="com.neu.edu.LMS.dao.UserBookDaoImpl"> </bean>
+	
+	<bean id="passwordValidator" class="com.neu.edu.LMS.validator.PasswordValidator"></bean>
+	
+	<bean id="OweBookpdfcontroller" class="com.neu.edu.LMS.controller.PdfReportGeneratorController" ></bean>
+	
+	<!-- <bean id="mailSender" class="org.springframework.mail.javamail.JavaMailSenderImpl">
+        <property name="host" value="smtp.gmail.com" />
+        <property name="port" value="587" />
+        <property name="username" value="empowerherhealth@gmail.com" />
+        <property name="password" value="Project@fall2018" />
+        <property name="javaMailProperties">
+            <props>
+                <prop key="mail.transport.protocol">smtp</prop>
+                <prop key="mail.smtp.auth">true</prop>
+                <prop key="mail.smtp.starttls.enable">true</prop>
+            </props>
+        </property>
+    </bean>-->
+    
+    <bean class="org.springframework.web.servlet.view.XmlViewResolver">
+       <property name="location">
+          <value>/WEB-INF/spring-pdf-views.xml</value>
+       </property>
+    </bean>	
+    
+    <bean id="Aspectlogging" class="com.neu.edu.LMS.logging.Aspectlogger"> </bean>
+</beans>
